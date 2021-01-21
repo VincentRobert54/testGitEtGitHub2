@@ -1,5 +1,5 @@
 /***************************
-Test de la fonction 1 bis
+Test de la fonction 1 bis modifié depuis GitHub
 *****************************/
 #include <iostream>	// bibliothèque de gestion des E/S
 #include <conio.h>	// gestion de la console (ici _getch())
